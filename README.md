@@ -1,10 +1,14 @@
 # Practica de git y README
-ESta es una practica sencilla de aplicar comandos de git y crear mi primer archivo README.
+Esta es una practica sencilla de aplicar comandos de git y crear mi primer archivo README.
 
 **1.Clona este repositorio:**
 Usa git clone
+
+
 **2. Navega al directorio del proyecto:**
 cd nombre-del-proyecto
+
+
 **3.Ejecutael proyecto:**
 Puedes usar la extension live server
 
